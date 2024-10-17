@@ -15,6 +15,7 @@
   - CMAccessEngineering
   - CMAccessMaint
   - CMAccessOT
+  - CMAccessRequisitions
 
 - type: accessGroup
   id: MP
@@ -31,6 +32,7 @@
   - CMAccessEngineering
   - CMAccessMaint
   - CMAccessOT
+  - CMAccessRequisitions
 
 - type: accessGroup
   id: CMWarden
@@ -48,3 +50,4 @@
   - CMAccessEngineering
   - CMAccessMaint
   - CMAccessOT
+  - CMAccessRequisitions
