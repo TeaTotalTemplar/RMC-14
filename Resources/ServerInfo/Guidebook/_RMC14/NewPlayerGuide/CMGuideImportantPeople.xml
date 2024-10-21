@@ -1,0 +1,61 @@
+<Document>
+ [color=#5f698a]█    █ █▄ █[/color] [head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]\n
+ [color=#5f698a]▀ ▄▀ █ ▀█ [/color]
+ 
+ #Know your betters:
+ ##A guide to command staff and department heads
+
+ -So, you're awake, you're fed, you're dressed, and you're armed. You've made it to briefing and now you're wondering who to suck up to for that medal or promotion. Here's a rundown on the brass so you can get to kissing ass:
+
+ ##High Command and the Provost Office
+ -High Command are the de facto supreme authority of the UNMC, and can usually be reached by fax. They are most frequently contacted for matters pertaining to tactics or clearance.
+ -Their time is precious - do not misuse the fax under ANY circumstances!
+ -Under certain extreme circumstances it may be necessary for High Command to deploy an officer to the vessel. Such cases are very rare, and the presence of such high-ranking personnel is a sign you should be seen and not heard. Speak when spoken to, remember your manners, and for God's sake, SALUTE!
+
+ -The [bold]Provost Office[/bold] is usually called upon to handle matters pertaining to Marine Law, particuarly in cases where the Military Police have misstepped or acted improperly.
+ -It is particularly rare for the Provost Office to deploy a member of staff, and their presence aboard indicates a most serious transgression has taken place. Keep your nose clean, marine.
+
+ ##Standard Operational Leadership:
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleCO"/>
+  </Box>  
+ -The [bold]Commanding Officer[/bold] (commonly referred to as CO) is running the show. They will tell the other officers what to do so they can tell YOU what to do.
+ -The position of CO is held only by those who have proven their courage, loyalty, and competence. They have supreme authority aboard this vessel, and answer only to High Command.
+   
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleXO"/>
+  </Box>
+ -The [bold]Executive Officer[/bold] (or XO) is second to the Commanding Officer. If the CO is the brain, the XO is the hand.
+ 
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleSO"/>
+  </Box>
+ -The [bold]Staff Officer[/bold] (or SO) coordinates with the squad leaders and relays orders and intel to the XO and CO. They run overwatch on the squad and can see through the camera on your helmet (which you ARE wearing, aren't you?). 
+ 
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleCMP"/>
+  </Box>
+ -The [bold]Chief of Military Police[/bold] oversees the Military Police and ensures that marine law is observed and enforced.
+  
+   <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleCMO"/>
+  </Box>
+ -The [bold]Chief Medical Officer[/bold] oversees the Medbay and ensures the medical staff are operating efficiently and that research is being conducted safely and ethically.
+ 
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleASO"/>
+  </Box>
+ -The [bold]Auxiliary Support Officer[/bold] oversees the Hangar, Intel, Requisitions, and Engineering departments. While Req and Engineering have their own section head, the ASO has direct authority over them. 
+ 
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleCE"/>
+  </Box>
+ -The [bold]Chief Engineer[/bold] oversees the Maintenance and Ordnance Technicians.
+ 
+  <Box>
+    <GuideEntityEmbed Entity="CMGuidebookRoleQM"/>
+  </Box>
+ -The [bold]Quartermaster[/bold] operates the requisitions department and oversees the Cargo Technicians. While not a commissioned officer, the QM is one of the highest ranking enlisted aboard and warrants a spot on this list.
+ 
+ -For more information on the hierarchy of the UNMC, consult the Chain of Command
+</Document>

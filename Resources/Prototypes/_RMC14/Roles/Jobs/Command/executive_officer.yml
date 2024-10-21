@@ -69,5 +69,15 @@
       state: green
     - state: executive_officer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleXO
+  name: Executive Officer
+  description: Second-in-Command!
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: executive_officer
+
 - type: playTimeTracker
   id: CMJobExecutiveOfficer

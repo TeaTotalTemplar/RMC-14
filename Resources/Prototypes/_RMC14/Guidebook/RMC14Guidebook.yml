@@ -20,6 +20,7 @@
   text: "/ServerInfo/Guidebook/_RMC14/RMCGuideNewPlayer.xml"
   children:
   - CMGuideRoleRifleman
+  - CMGuideCommandStaff
   - CMGuideRoleDrone
 
 - type: guideEntry
@@ -31,15 +32,23 @@
 
 - type: guideEntry
   parent: RMC
-  id: CMGuideRoleDrone
+  id: CMGuideCommandStaff
   priority: 1
+  name: "Guide to Command Staff"
+  text: "/ServerInfo/Guidebook/_RMC14/NewPlayerGuide/CMGuideImportantPeople.xml"
+
+
+- type: guideEntry
+  parent: RMC
+  id: CMGuideRoleDrone
+  priority: 2
   name: "Drone Guide"
   text: "/ServerInfo/Guidebook/_RMC14/NewPlayerGuide/CMGuideRoleDrone.xml"
 
 - type: guideEntry
   parent: RMC
   id: RMCMedical
-  priority: 2
+  priority: 3
   name: "Medical"
   text: "/ServerInfo/Guidebook/_RMC14/Medical/RMCMedical.xml"
   children:
@@ -48,6 +57,6 @@
 - type: guideEntry
   parent: RMC
   id: RMCRequisitions
-  priority: 3
+  priority: 4
   name: "Requisitions"
   text: "/ServerInfo/Guidebook/_RMC14/RMCRequisitions.xml"

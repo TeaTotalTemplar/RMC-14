@@ -72,5 +72,15 @@
       state: green
     - state: chief_military_police
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleCMP
+  name: Chief of Military Police
+  description: Upholds Marine Law
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: chief_military_police
+
 - type: playTimeTracker
   id: CMJobChiefMP

@@ -74,5 +74,15 @@
       state: green
     - state: chief_medical_officer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleCMO
+  name: Chief Medical Officer
+  description: Leads the lifesavers
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: chief_medical_officer
+
 - type: playTimeTracker
   id: CMJobCMO

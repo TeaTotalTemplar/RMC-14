@@ -87,5 +87,15 @@
       state: green
     - state: commanding_officer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleCO
+  name: Commanding Officer
+  description: Leads us to victory!
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: commanding_officer
+
 - type: playTimeTracker
   id: CMJobCommandingOfficer

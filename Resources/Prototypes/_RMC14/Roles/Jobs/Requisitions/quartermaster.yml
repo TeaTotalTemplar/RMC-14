@@ -64,5 +64,15 @@
       state: green
     - state: quartermaster
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleQM
+  name: Quartermaster
+  description: Manages the supply chain
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: quartermaster
+
 - type: playTimeTracker
   id: CMJobQuartermaster

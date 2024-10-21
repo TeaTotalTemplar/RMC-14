@@ -76,5 +76,15 @@
       state: green
     - state: auxiliary_support_officer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleASO
+  name: Auxiliary Support Officer
+  description: Leads the support departments
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: auxiliary_support_officer
+
 - type: playTimeTracker
   id: CMJobAuxiliarySupportOfficer

@@ -63,5 +63,15 @@
       state: green
     - state: chief_engineer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleCE
+  name: Chief Engineer
+  description: Keeps the power going
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: chief_engineer
+
 - type: playTimeTracker
   id: CMJobChiefEngineer

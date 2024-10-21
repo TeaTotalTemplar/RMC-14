@@ -67,5 +67,15 @@
       state: green
     - state: staff_officer
 
+- type: entity
+  parent: CMGuidebookRole
+  id: CMGuidebookRoleSO
+  name: Staff Officer
+  description: Your eye in the sky - WEAR YOUR HELMET!
+  noSpawn: false
+  components:
+  - type: Sprite
+    state: staff_officer
+
 - type: playTimeTracker
   id: CMJobStaffOfficer
